@@ -59,7 +59,7 @@ const config = {
   //     companyLink: 'https://example.com',
   //   },
   // ],
-  ertifications: [
+  certifications: [
     {
       name: 'OPIC',
       body: 'OPIC IM 2',
