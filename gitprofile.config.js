@@ -32,20 +32,16 @@ const config = {
   //     'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   // },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
-    'React.js',
+    'TypeScript',
     'Node.js',
     'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Python',
+    'Java',
+    'C',
   ],
   // experiences: [
   //   {
@@ -63,26 +59,20 @@ const config = {
   //     companyLink: 'https://example.com',
   //   },
   // ],
-  /* certifications: [
+  ertifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'OPIC',
+      body: 'OPIC IM 2',
+      year: 'March 2023',
+      link: ''
     },
-  ], */
+  ], 
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'SKKU',
+      degree: 'B.S (Math and Software Engineering',
+      from: '2018',
+      to: '2024',
     },
   ],
 
